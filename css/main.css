@@ -20,6 +20,15 @@ section {
 }
 
 
-.flex - display: flex
-.flex-column - flex-direction: column
-.flex-one - flex: 1
+.flex {
+  display: flex }
+
+
+.flex-column {
+  flex-direction: column
+  }
+
+
+.flex-one {
+flex: 1
+}
