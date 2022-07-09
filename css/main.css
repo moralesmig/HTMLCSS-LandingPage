@@ -98,21 +98,29 @@ section {
     letter-spacing: 0.2px;
 }
 
-.profile { margin-left: auto; }
+.profile {
+  margin-left: auto;
+}
+
+
 .account {
     text-align: right;
     padding: 15px;
     font-size: 18px;
     color: #364147;
 }
+
 .account a { font-size: 14px; }
 
-.profile-pic { width: 60px; height: 60px; }
+.profile-pic {
+  width: 60px;
+  height: 60px;
+}
+
 .profile-pic img {
     border-radius: 100px;
     max-width: 100%;
 }
-
 
 .hero {
     background-image: url('../img/hero.jpg');
